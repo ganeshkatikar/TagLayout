@@ -4,9 +4,9 @@ Customize taglayout for tags with alignment center, left and right property.
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/ganeshkatikar/TagLayout/blob/master/app/src/main/res/raw/left.jpg" width="350" title="hover text">
-  <img src="https://github.com/ganeshkatikar/TagLayout/blob/master/app/src/main/res/raw/center.jpg" width="350" alt="accessibility text">
-<img src="https://github.com/ganeshkatikar/TagLayout/blob/master/app/src/main/res/raw/right.jpg" width="350" alt="accessibility text">
+  <img src="https://github.com/ganeshkatikar/TagLayout/blob/master/app/src/main/res/raw/left.jpg" width="250" title="hover text">
+  <img src="https://github.com/ganeshkatikar/TagLayout/blob/master/app/src/main/res/raw/center.jpg" width="250" alt="accessibility text">
+<img src="https://github.com/ganeshkatikar/TagLayout/blob/master/app/src/main/res/raw/right.jpg" width="250" alt="accessibility text">
 </p>
 
 ## Add view in your layout
