@@ -1,5 +1,5 @@
 # TagLayout
-Customize taglayout for tags with alignment center, left and right property.
+Customize taglayout for tags with alignment <strong><em>left</em></strong>, <strong><em>center</em></strong> and <strong><em>right</em></strong> property.
 
 ## Screenshot
 
