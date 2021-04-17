@@ -11,7 +11,7 @@
 
     <dev.ganidroid.tagview.TagsLayout
         android:id="@+id/tagLayout"
-        app:tl_gravity="left"
+        app:tl_gravity="right"
         app:tl_bg_color_parent="#ebeb34"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
